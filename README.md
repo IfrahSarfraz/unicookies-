@@ -14,9 +14,11 @@ This is a responsive website template created using HTML, CSS, and JavaScript. I
 
 Check out the live demo: [Live Demo Link](https://ifrahsarfraz.github.io/unicookies-/)  
 
-## Website Video
+## Video
 
-Watch a video walkthrough of the website: [Website Video Link](https://github.com/user-attachments/assets/984b99c8-5fb6-40cd-b094-68910dcb1faa)  
+Watch the video demonstration of the website:
+
+[Website Video](https://github.com/user-attachments/assets/984b99c8-5fb6-40cd-b094-68910dcb1faa)
 
 ## Technologies Used
 
